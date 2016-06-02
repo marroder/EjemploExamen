@@ -1,2 +1,6 @@
 Primera carpeta.
+<<<<<<< HEAD
 Modificación desde master
+=======
+Rama creada desde carpeta examen2
+>>>>>>> remotes/origin/rama2
